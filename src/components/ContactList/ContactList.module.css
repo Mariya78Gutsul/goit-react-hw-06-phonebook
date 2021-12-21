@@ -1,0 +1,22 @@
+.list {
+  width: 400px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+}
+
+.TaskList_text {
+  flex: 0 0 65%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 16px;
+  border-radius: 3px;
+}
+
+.button {
+  margin-right: 4px;
+  margin-left: 10px;
+}
