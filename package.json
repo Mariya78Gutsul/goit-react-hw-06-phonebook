@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://mariya78gutsul.github.io/goit-react-hw-06-phonebook",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
